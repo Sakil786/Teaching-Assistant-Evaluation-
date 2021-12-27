@@ -1,4 +1,14 @@
-# Teaching-Assistant-Evaluation
+# Teaching-Assistant-Evaluation Using different ML and DL Techniques
+# Highlights
+* Different ML and DL model have been implemented and the results are compared.
+* Machine learning skills
+* Analysis and Presenting the result(Please refer ML_case_studysakil_Analysis_result.pptx)
+* Coding standard: I have followed object-oriented approach and also used docstring for commenting the code(Please refer Model_Creation_using_Random_forest_using_OOP file).
+# Information Regarding Files
+* ML_case_studysakil_Analysis_result.pptx: Detailed analysis result,model result ,approach ,architecture diagram
+* ML_Case_Study_solution.zip: Includes all the python script of the use case
+* Userguide.pdf: Information regarding the files in ML_Case_Study_solution.zip
+* requirements.txt: libraries to be installed to execute the script.
 
 # Goal
 Develop a Machine Learning Model that evaluates teaching performance scores : "low", "medium" or "high".
@@ -73,3 +83,7 @@ Develop a Machine Learning Model that evaluates teaching performance scores : "l
 * Machine learning and deep learning algorithms are developed, and the accuracy is compared. 
 * The model created by auto ml gives less accuracy than the model created by machine learning.
 * The dataset was too small and also had too many categories in the categorical features which lead to difficulty in deciding which algorithm to choose.
+
+# Note:
+* For code execution ,please follow the user guide attached.
+
